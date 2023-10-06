@@ -8,7 +8,7 @@ const listNumbers = [
 
 const testNumbers = test.each(listNumbers);
 
-testNumbers('Тест номеров', (number) => {
+testNumbers(`Тест номера %s`, (number) => {
   const newNumber = phoneTransfer(number);
   // expect(newNumber).not.toContain(' ');
   // expect(newNumber).toMatch(/[^ -()]/);
