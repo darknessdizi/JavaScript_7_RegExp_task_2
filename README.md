@@ -1,5 +1,7 @@
 # Домашнее задание к лекции «Регулярные выражения»
 
+[![Build status](https://ci.appveyor.com/api/projects/status/cagsuckk4fpy9cyi?svg=true)](https://ci.appveyor.com/project/darknessdizi/javascript-7-regexp-task-2)
+
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
 
 **Важно**: код должен проходить ESLint без ошибок.
